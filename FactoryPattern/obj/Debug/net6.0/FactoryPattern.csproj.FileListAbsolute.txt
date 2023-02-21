@@ -1,0 +1,15 @@
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/william/Desktop/Repos/FactoryPattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
